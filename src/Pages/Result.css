@@ -1,0 +1,25 @@
+.result-container {
+    background-color: #FFFFFF;
+    border-style: double;
+    border-width: 5px;
+    margin: 50px;
+    height: calc(100vh - 110px);
+    overflow: auto;
+    text-align: center;
+}
+
+.result-image-block {
+    height: 300px;
+    width: 500px;
+    margin: 50px;
+}
+
+.result-text-block {
+    font-size: 30px;
+}
+
+.result-main-button {
+    width: 300px;
+    margin: 20px;
+    font-size: 16px;
+}
